@@ -1,0 +1,8 @@
+{
+  "trusted_keys": {
+    "mediaflow-stable-2026-01": {
+      "algorithm": "ed25519",
+      "public_key": "6HqXD6+PHV5yEqPoxWS65aRS2tF43tqXDlbxgb6EMn0="
+    }
+  }
+}
